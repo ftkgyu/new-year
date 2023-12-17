@@ -1,0 +1,34 @@
+.ul-first{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+img{
+    width: 700px;
+}
+.img-first{
+    height: 465px;
+}
+.h-one-first{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+li{
+    list-style: none;
+}
+.h-one-second{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.ul-second{
+    display: flex;
+    justify-content: center;
+}
+.img-second{
+    width: 1000px;
+}
+.h-one-second{
+
+}
